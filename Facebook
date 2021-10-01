@@ -1,0 +1,4 @@
+git clone
+cd socialphish
+chmod +x socialphosh.sh
+/socialphish sh
